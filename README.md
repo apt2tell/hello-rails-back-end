@@ -33,7 +33,7 @@
 
 ## Live Demo 
 
-- Coming soon
+- [Front-end link](https://github.com/Okechukwu-muokwugwo/hello-react-front-end)
 
 ### Key Features
 
